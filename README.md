@@ -15,4 +15,4 @@ A custom, high-detail Arthur Morgan theme designed from scratch for the LilyGO T
 3. Reinsert the SD card, navigate to **Settings > Display & UI**, and apply the theme.
 
 ## 🎨 Credits
-- Designed & built by [اسمك هنا]
+- Designed & built by SADEK
